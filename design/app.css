@@ -1,0 +1,101 @@
+body {
+    background-color: #f3f3f3;
+    font-size: 16px;
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 900px;
+}
+.orders ul {
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+.orders ul li .order{
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
+.orders ul li .order-info {
+    border-left: 5px solid #4f81c0;
+}
+.orders ul li .order-info span.bud-info {
+    background-color: #4f81c0;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 15px;
+    font-size: 13px;
+}
+.orders ul li .order-success {
+    border-left: 5px solid #6aa726;
+}
+.orders ul li .order-success span.bud-success {
+    background-color: #6aa726;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 15px;
+    font-size: 13px;
+}
+.orders ul li .head {
+    padding-bottom: 10px;
+}
+.orders ul li .head div{
+    color: #b1b1b1;
+    display: inline-block;
+    font-size: 12px;
+}
+.orders ul li .head .col1 {
+    width: 90px;
+}
+.orders ul li .head .col2 {
+    width: 140px;
+}
+.orders ul li .head .col3 {
+    width: 200px;
+}
+.orders ul li .head .col4 {
+    width: 90px;
+}
+.orders ul li .head .col5 {
+    width: 90px;
+}
+.orders ul li .head .col6 {
+    width: 90px;
+}
+.orders ul li .head .col7 {
+    width: 90px;
+}
+.orders ul li .body .col1 {
+    width: 90px;
+}
+.orders ul li .body .col2 {
+    width: 140px;
+}
+.orders ul li .body .col3 {
+    width: 200px;
+}
+.orders ul li .body .col4 {
+    width: 90px;
+}
+.orders ul li .body .col5 {
+    width: 90px;
+}
+.orders ul li .body .col6 {
+    width: 90px;
+}
+.orders ul li .body .col7 {
+    text-align: right;
+    width: 125px;
+}
+.orders ul li .body div {
+    color: #323232;
+    display: inline-block;
+}
