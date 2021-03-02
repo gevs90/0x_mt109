@@ -1,0 +1,35 @@
+1.- Explain the difference between Unit Tests, Integration Tests, and Acceptance Tests.
+    Unit tests are for testing specific components or pieces of software. Integration tests are based on
+    the communication between the components and their interaction evaluating an expected result. acceptance tests are performed to check
+    that the joint implementation of the expected results based on the established parameters.
+2.- How does SCRUM work?
+    This methodology seeks to fulfill what is planned within the sprint, it has 3 pillars: adaptation, inspection and transparency. During the sprint
+    You can add issues, code review sessions and a daily meeting to know what each developer is working on.
+    It begins by planning the sprint with the Product Owner, Scrum master and the developers, who are the only ones to estimate the time of each
+    issue in the sprint.
+3.- Explain how Test-Driven Development (TDD) works and why it is important to use it.
+    TDD starts with thinking about creating tests for user story acceptance criteria, they run and fail. It works
+    in the implementation to pass the tests and so many times necessary. It is important because this development technique is better suited to
+    user stories, agile methodologies and for projects of rapid and continuous changes.
+4.- Explain how Continuous Integration and Continuous Delivery works and list its benefits.
+    CI focuses on the development flow of all developers in a project, seeking to integrate the changes with the fewest errors
+    possible, gitflow is used to integrate the changes to the master and develop branches. CD focuses on delivering changes to production in the smallest
+    time possible with automated tasks, pipelines, and running tests to ensure changes are successful. Use these practices
+    helps the team reduce the margin of errors to continue developing and avoid fixing avoidable bugs.
+5.- What is the difference between a monolithic application and an application based in microservices?
+    Monolithic applications generally all their processes and tasks running on a single program or platform; They are autonomous and if any component fails
+    the entire system is very likely to fail. Service-based applications can be written on different programs and platforms.
+    delegating tasks or processes in specific instances. If one fails, it does not affect the rest of the services.
+6.- Describe a use case to implement Serverless.
+    Microservice. To deal with bursts of traffic due to the behavior of system users at specific times of the day and then
+    traffic is low where no more resources are required to keep that part of the system online.
+7.- What are the main DevOps principles ?
+    Assign responsibilities, develop collaborative environment, be clear about customer needs and automate as much as possible.
+8.- What are your 3 favorite open source projects and why ?
+    NodeJS - v8 javascript engine,
+    VueJS - Minor configuration to start with small projects.
+    FASTAPI - Quick start to develop API with swagger documentation.
+9.- List 3 books that have impacted and improved your professional career as a developer.
+    1. Clean Code
+    2. Majesty of VueJS
+    3. Clean Code, Solid and Testing
